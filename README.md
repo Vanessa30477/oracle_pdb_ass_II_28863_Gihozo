@@ -38,7 +38,7 @@ The main objectives of this assignment were to:
 
 ## Task Expounded 
 
-🔹 Task 1: Pluggable Database (PDB) Creation
+### Task 1: Pluggable Database (PDB) Creation
 
 In this task, a new Pluggable Database was created within an existing Container Database (CDB).
 
@@ -48,11 +48,15 @@ The process involved:
 
 - Executing CREATE PLUGGABLE DATABASE
 
+![Creating a new pdb](Screenshots/main_pdb_creation.png)
+
 - Opening the PDB and saving its state
 
 - Verifying creation using SHOW PDBS
 
-🔹 Task 2: Pluggable Database (PDB) Deletion
+![Existence of pdb](Screenshots/pdb_verified.png)
+
+### Task 2: Pluggable Database (PDB) Deletion
 
 This task involved creating a new pluggable databse and safely removing it.
 
@@ -62,13 +66,19 @@ Steps followed:
 
 - Unplugging or dropping the PDB.
 
+![Dropping a PDB](Screenshots/drop_pdb.png)
+
 - Deleting associated data files.
 
 - Confirming removal from the CDB using select syntax.
 
-🔹 Task 3: Oracle Enterprise Manager (OEM) Monitoring
+![Confirming pdb is gone](Screenshots/pdb_gone.png)
+
+### Task 3: Oracle Enterprise Manager (OEM) Monitoring
 
 Oracle Enterprise Manager was used to monitor:
+
+![OEM dashboard](Screenshots/OEM.png)
 
 - Database status: understanding of database performance and health indicators
 
@@ -80,7 +90,7 @@ Oracle Enterprise Manager was used to monitor:
 
 This task demonstrates real-world database administration and monitoring skills.
 
-⚠️ Challenges Faced & Solutions
+## Challenges Faced & Solutions
 
 | Challenge	                            | Solution                                |
 |---------------------------------------|-----------------------------------------|
