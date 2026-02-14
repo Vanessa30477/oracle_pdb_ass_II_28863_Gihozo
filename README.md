@@ -56,6 +56,10 @@ The process involved:
 
 ![Existence of pdb](Screenshots/pdb_verified.png)
 
+- Creation of user inside PDB
+
+![User created](Screenshots/user_inside.png)
+
 ### Task 2: Pluggable Database (PDB) Deletion
 
 This task involved creating a new pluggable databse and safely removing it.
