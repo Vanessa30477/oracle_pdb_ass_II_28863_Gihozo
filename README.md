@@ -107,5 +107,7 @@ I hereby declare that this assignment is entirely my own work. All tasks were co
 
 
 Repository Link: https://github.com/Vanessa30477/oracle_pdb_ass_II_28863_Gihozo/tree/main
+
 PDB Name Created: Va_pdb_28863
+
 Issues Encountered: Yes
